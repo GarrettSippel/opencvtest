@@ -1,3 +1,0 @@
-C:/Users/Garrett/Programing/BaseProject/build/CMakeFiles/base_project.dir
-C:/Users/Garrett/Programing/BaseProject/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Garrett/Programing/BaseProject/build/CMakeFiles/ZERO_CHECK.dir
